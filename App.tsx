@@ -3,9 +3,11 @@ import './style.css';
 
 export default function App() {
   return (
-    <div>
-      <h1>Hello StackBlitz!</h1>
-      <p>Start editing to see some magic happen :)</p>
-    </div>
+    <a>
+      <h1 style={{ textAlign: 'center' }}>
+        Ôn thi THPT
+        <span style={{ color: '#0171ec' }} className={'fa fa-cog'}></span>
+      </h1>
+    </a>
   );
 }
