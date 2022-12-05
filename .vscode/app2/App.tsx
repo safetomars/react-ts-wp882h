@@ -4,7 +4,7 @@ export default function App() {
   return (
     <a>
       <h1 style={{ textAlign: 'center' }}>
-        Ôn thi THPT 1
+        Ôn thi THPT 2
         <span style={{ color: '#0171ec' }} className={'fa fa-cog'}></span>
       </h1>
     </a>
